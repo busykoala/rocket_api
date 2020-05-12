@@ -1,0 +1,8 @@
+[package]
+name = "rocket_api"
+version = "0.1.0"
+authors = ["Matthias Osswald <m@osswald.li>"]
+edition = "2018"
+
+[dependencies]
+rocket = "0.4.4"
